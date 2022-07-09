@@ -7,5 +7,7 @@ NIM: 191011402659
 KELAS: 06TPLM005
 
 ## SCREENSHOT PROGRAM FUZZY
+![ScreenShot](https://user-images.githubusercontent.com/108711724/178093399-8d9c9494-c2e0-4b35-9603-494dcedd267c.png)
 
 ## PDF FILE
+[manual fuzzy.pdf](https://github.com/armatriwahyudi/UAS_AI_191011402659_ARMATRIWAHYUDI/files/9075945/manual.fuzzy.pdf)
